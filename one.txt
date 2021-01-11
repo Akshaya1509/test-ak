@@ -1,4 +1,3 @@
 one
-line 2 in master branch
-
+in feature branch
 i am line 4
